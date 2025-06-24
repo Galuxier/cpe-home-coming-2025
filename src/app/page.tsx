@@ -126,11 +126,6 @@ export default function HomePage() {
           </div>
         </div>
       </div>
-
-      <footer className="absolute bottom-2 left-1/2 z-10 -translate-x-1/2 text-xs sm:text-sm text-[#756d67] whitespace-nowrap">
-        © {new Date().getFullYear()} CPE Department. All Rights Reserved.
-      </footer>
-
     </main>
   );
 }

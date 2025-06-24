@@ -15,6 +15,9 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "CPE Home Coming",
   description: "CPE Home Coming 2025",
+  icons: {
+    icon: "./favicon.png"
+  }
 };
 
 export default function RootLayout({
